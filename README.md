@@ -1,6 +1,6 @@
-# Kisan
+# Kisaan
 
-**Kisan** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
+**Kisaan** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Build a full-stack web application that connects farmers and consumers.**
 
-We responded with **Kisan** — a modern, scalable agri-tech solution empowering both farmers and consumers.
+We responded with **Kisaan** — a modern, scalable agri-tech solution empowering both farmers and consumers.
 
 ---
 
@@ -25,7 +25,7 @@ Farmers in many regions face major hurdles:
 
 ## ✅ Our Developed Solution
 
-**Kisan** directly addresses these issues by offering:
+**Kisaan** directly addresses these issues by offering:
 
 - 🌾 **Farmer Profiles** — Showcase farm products, locations, and background
 - 🛒 **Consumer Dashboard** — Browse goods by category, farm
