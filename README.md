@@ -1,8 +1,6 @@
-# KisanBazar
+# Kisan
 
-**KisanBazar** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
-
-🚀 **Winner of the Full Stack Web Development Hackathon** at the University of South Asia — built by Team Terminator 🏆
+**Kisan** is a full-stack web application developed during a hackathon to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
 ---
 
@@ -10,7 +8,7 @@
 
 **Build a full-stack web application that connects farmers and consumers.**
 
-We responded with **KisanBazar** — a modern, scalable agri-tech solution empowering both farmers and consumers.
+We responded with **Kisan** — a modern, scalable agri-tech solution empowering both farmers and consumers.
 
 ---
 
@@ -27,7 +25,7 @@ Farmers in many regions face major hurdles:
 
 ## ✅ Our Developed Solution
 
-**KisanBazar** directly addresses these issues by offering:
+**Kisan** directly addresses these issues by offering:
 
 - 🌾 **Farmer Profiles** — Showcase farm products, locations, and background
 - 🛒 **Consumer Dashboard** — Browse goods by category, farm
@@ -45,7 +43,6 @@ Farmers in many regions face major hurdles:
 - **Database:** MongoDB
 - **Security:** JWT (JSON Web Token)
 - **AI Integration:** Google Gemini AI
-- **Hosting:** Vercel
 
 ---
 
@@ -181,16 +178,10 @@ api/
 
 ---
 
-## Live Links
-
-- **Live Web:** [kisanbazar.vercel.app](https://kisanbazar.vercel.app)
-- **GitHub Repo:** [github.com/ahadalireach/kisanbazar](https://github.com/ahadalireach/kisanbazar) (Give it a Star!)
-- Live Video Demo: [Watch Now](https://www.youtube.com/watch?v=riaSSccA8uk)
-
 ## Contact
 
-For any questions, feedback, or collaboration opportunities, feel free to contact me at [ahadali.reach@gmail.com](mailto:ahadali.reach@gmail.com).
+For any questions, feedback, or collaboration opportunities, feel free to contact me at [adityajolly16@gmail.com](mailto:adityajolly16@gmail.com).
 
 ---
 
-> Built with ❤️ by Team Terminator | **Full Stack Web Development Hackathon** Winner at the University of South Asia 🏆
+> Built with ❤️ by Team TechTitans | **Full Stack Web Development Hackathon** 
